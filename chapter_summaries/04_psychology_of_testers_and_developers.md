@@ -26,12 +26,12 @@ Understanding this difference is crucial for creating a balanced, efficient, and
 | **Developer** | Build software that works | Creative, constructive | Optimism bias (“my code works”) |
 | **Tester** | Find software that breaks | Analytical, destructive | Skepticism (“what if it fails?”) |
 
-### 🧩 Developer’s Psychology
+### Developer’s Psychology
 - Developers have **emotional attachment** to their code.  
 - They tend to subconsciously avoid inputs or scenarios that might reveal errors.  
 - A successful test (no errors) **reinforces confidence**, which can sometimes be misleading.
 
-### 🧪 Tester’s Psychology
+### Tester’s Psychology
 - Testers must think **pessimistically yet logically**.  
 - They assume *bugs exist until proven otherwise*.  
 - A successful test is **one that reveals a defect**, not one that passes.
@@ -99,7 +99,7 @@ Encourage a **growth mindset** — treat every bug as a **learning opportunity**
 Testing teams succeed when both sides respect each other’s roles.  
 Instead of rivalry, they should share **a common goal: software quality**.
 
-### 🤝 Collaboration Tips
+### Collaboration Tips
 1. **Test early and together** — include testers in design discussions.  
 2. **Review test results openly**, without blame.  
 3. **Share metrics and goals** — e.g., defect density, escape rate.  
