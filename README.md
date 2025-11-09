@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧪 Art of Software Testing  
+#  Art of Software Testing  
 </div>
 
 *A structured summary of key testing principles and methodologies inspired by Glenford J. Myers.*
@@ -48,7 +48,7 @@ art-of-software-testing/
 
 ---
 
-### 🧩 Topics Covered  
+### Topics Covered  
 - Testing principles and psychology  
 - Black-box and white-box testing  
 - Static and dynamic testing  
@@ -59,7 +59,7 @@ art-of-software-testing/
 
 ---
 
-### 🧠 How to Use  
+### How to Use  
 - Browse through the **chapter summaries** to explore each topic.  
 - Use it as a **quick reference** for learning or revision.  
 - Clone or fork the repository to **add your own notes** and expand upon it.  
@@ -76,4 +76,4 @@ This repository is part of my journey to understand the craft of Software Testin
 Each summary and note is a step toward building stronger analytical thinking, precision, and testing discipline.
 It’s an evolving collection, updated as I continue to learn and grow. 
 
-<_“The best testers aren’t those who find the most bugs, but those who ask the right questions.”
+>  “The best testers aren’t those who find the most bugs, but those who ask the right questions.”
